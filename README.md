@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning phython
 - 💞️ I’m looking to collaborate on printer ccofigurations 
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm really not very good with computers but am learning and adaptable.
+- ⚡ Fun fact: I'm really not very good with computers but AI is really helping me step it up.
 
 <!---
 Cummins13/Cummins13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
